@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Jinseer\Junit;
+namespace Starryseer\Junit;
 
 
 class TestController

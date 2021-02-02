@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Jinseer\Junit\Providers;
+namespace Starryseer\Junit\Providers;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;

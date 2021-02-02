@@ -1,5 +1,5 @@
 {
-    "name": "jinseer\/junit",
+    "name": "starryseer\/junit",
     "description": "a test demo of laravel",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Jinseer\\Junit\\": "src"
+            "Starryseer\\Junit\\": "src"
         }
     }
 }

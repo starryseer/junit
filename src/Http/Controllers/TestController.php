@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Jinseer\Junit\Http\Controllers;
+namespace Starryseer\Junit\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 
