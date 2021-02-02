@@ -1,0 +1,17 @@
+{
+    "name": "jinseer\/junit",
+    "description": "a test demo of laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "starryseer",
+            "email": "850812313@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jinseer\\Junit\\": "src"
+        }
+    }
+}
