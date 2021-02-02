@@ -9,7 +9,7 @@ use Illuminate\Contracts\Routing\UrlGenerator;
 
 class JunitProvider extends ServiceProvider
 {
-    protected $namespace = 'Jinseer\Junit\Http\Controllers';
+    protected $namespace = 'Starryseer\Junit\Http\Controllers';
 
     public function boot()
     {
