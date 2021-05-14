@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require jinseer/junit -vvv
+$ composer require jinseer/junit -vvv 111
 ```
 
 ## Usage
